@@ -1,2 +1,0 @@
-- test file for face detection using dlib
-- Initial commit
